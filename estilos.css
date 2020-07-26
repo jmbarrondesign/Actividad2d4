@@ -1,0 +1,13 @@
+@font-face { font-family:"Montserrat";
+
+    src: url(link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600;700&display=swap" rel="stylesheet");
+
+* { margin: 0px;}
+
+}
+
+h2 {font-family:"Montserrat", 700;}
+
+h3 {font-family:"Montserrat", 600;}
+
+p {font-family:"Montserrat", 300;}
