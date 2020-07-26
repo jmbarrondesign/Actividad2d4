@@ -1,20 +1,23 @@
 *{
     font-family: 'Montserrat', sans-serif;
-    margin: 0px;
+    margin-left: 0px;
 }
 
 h2{
   
     margin: 25px;
+    font-weight: 700;
 
 }
 
 h3{
 
     margin: 25px;
+    font-weight: 600;
 }
 
 p{
     padding: 30px;
+    font-weight: 300;
     
 }
